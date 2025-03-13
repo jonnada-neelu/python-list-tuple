@@ -1,5 +1,5 @@
 # employees attendence system
-
+```
 employees = [
     (101, "Alice Johnson", "HR"),
     (102, "Bob Smith", "IT"),
@@ -31,5 +31,5 @@ mark_attendance(attendance_records, 103, "2025-03-02", "Absent")
 mark_attendance(attendance_records, 105, "2025-03-02", "Present")
 
 search_attendance(attendance_records, 101)
-
+```
 
